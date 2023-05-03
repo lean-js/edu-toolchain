@@ -6,3 +6,5 @@
 
 - Minimale Node.js Version 10
 - Bündeln von aktuellem JavaScript in einen minifizierten Production-Build.
+- Erzeugen von Source Maps
+- Entwicklungszeit-Webserver
