@@ -1,4 +1,6 @@
 export const log = (msg) => {
-    const message = `[${new Date().toLocaleTimeString()}] ${msg}`;
-    console.log(message);
+    if (process.env.NODE_ENV !== 'production') {
+        const message = `[${new Date().toLocaleTimeString()}] ${msg}`;
+        console.log(message);
+    }
 };
