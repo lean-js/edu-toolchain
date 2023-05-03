@@ -9,6 +9,9 @@
     "build": "webpack --config webpack.prod.js"
   },
   "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/preset-env": "^7.21.5",
+    "babel-loader": "^8.3.0",
     "copy-webpack-plugin": "^8.1.1",
     "css-loader": "^5.2.7",
     "css-minimizer-webpack-plugin": "^2.0.0",
