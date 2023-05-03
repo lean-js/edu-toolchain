@@ -1,0 +1,6 @@
+{
+    "name": "edu-toolchain",
+    "description": "A NPM-based web app toolchain to be used with Node.js v10",
+    "version": "0.0.0",
+    "license": "MIT"
+}
