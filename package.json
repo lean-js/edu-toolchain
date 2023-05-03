@@ -1,17 +1,17 @@
 {
-    "name": "edu-toolchain",
-    "description": "A NPM-based web app toolchain to be used with Node.js v10",
-    "version": "0.0.0",
-    "license": "MIT",
-    "scripts": {
-        "build": "webpack"
-    },
-    "devDependencies": {
-        "webpack": "^5.82.0",
-        "webpack-cli": "^4.10.0"
-    },
-    "engines": {
-        "node": ">=10.13.0",
-        "npm": ">=6.4.1"
-    }
+  "name": "edu-toolchain",
+  "description": "A NPM-based web app toolchain to be used with Node.js v10",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^5.82.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "engines": {
+    "node": ">=10.13.0",
+    "npm": ">=6.4.1"
+  }
 }
