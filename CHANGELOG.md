@@ -1,6 +1,27 @@
 # Changelog
 
 
+## v0.0.3
+
+[compare changes](https://github.com/lean-js/edu-toolchain/compare/v0.0.2...v0.0.3)
+
+
+### 🚀 Enhancements
+
+  - Prepare seperate configs for dev and prod builds ([ebe78c0](https://github.com/lean-js/edu-toolchain/commit/ebe78c0))
+  - Generate source maps ([983c559](https://github.com/lean-js/edu-toolchain/commit/983c559))
+  - Change logging to dev only code. ([fec0fa4](https://github.com/lean-js/edu-toolchain/commit/fec0fa4))
+  - Add webpack-dev-server@3.10. ([cdeb48a](https://github.com/lean-js/edu-toolchain/commit/cdeb48a))
+
+### 🩹 Fixes
+
+  - Clean output folder before build. ([bb649e8](https://github.com/lean-js/edu-toolchain/commit/bb649e8))
+  - Update readme ([3407bc3](https://github.com/lean-js/edu-toolchain/commit/3407bc3))
+
+### ❤️  Contributors
+
+- Micha Buchholz ([@lean-dev](http://github.com/lean-dev))
+
 ## v0.0.2
 
 [compare changes](https://github.com/lean-js/edu-toolchain/compare/v0.0.1...v0.0.2)

@@ -1,7 +1,7 @@
 {
   "name": "edu-toolchain",
   "description": "A NPM-based web app toolchain to be used with Node.js v10",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "scripts": {
     "dev": "webpack serve --config webpack.dev.js",
