@@ -5,3 +5,4 @@
 ## Ziele
 
 - Minimale Node.js Version 10
+- Bündeln von aktuellem JavaScript in einen minifizierten Production-Build.
