@@ -1,6 +1,25 @@
 # Changelog
 
 
+## v0.1.0
+
+[compare changes](https://github.com/lean-js/edu-toolchain/compare/v0.0.3...v0.1.0)
+
+
+### 🚀 Enhancements
+
+  - Handle copying public assets vie copy-webpack-plugin@8 ([b20bcd2](https://github.com/lean-js/edu-toolchain/commit/b20bcd2))
+  - Handle importing css files ([a287b39](https://github.com/lean-js/edu-toolchain/commit/a287b39))
+  - Extract css in prod build ([dd39278](https://github.com/lean-js/edu-toolchain/commit/dd39278))
+  - Minimize extracted css in prod build ([d294488](https://github.com/lean-js/edu-toolchain/commit/d294488))
+  - Let babel transpile javascript. ([a01486e](https://github.com/lean-js/edu-toolchain/commit/a01486e))
+  - Support browsers via browserslist config ([d1a7a70](https://github.com/lean-js/edu-toolchain/commit/d1a7a70))
+  - Handle css for legacy browsers with postcss ([28fd041](https://github.com/lean-js/edu-toolchain/commit/28fd041))
+
+### ❤️  Contributors
+
+- Micha Buchholz ([@lean-dev](http://github.com/lean-dev))
+
 ## v0.0.3
 
 [compare changes](https://github.com/lean-js/edu-toolchain/compare/v0.0.2...v0.0.3)
